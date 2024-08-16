@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prajusoma
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Java Fullstack development course
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in bit everything
+- 🌱 I’m currently java fullstack developer
 - 📫 How to reach me prajusoma23@gmail.com
 
 <!---
