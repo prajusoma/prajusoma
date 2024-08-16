@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/saikatsamaG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://buymeacoffee.com/prajwal_soma?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
