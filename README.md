@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Prajwal Somashekar (@prajusoma)
 
-💻 **MERN Stack Developer** with **2 years of experience**, currently working as a **Java Full Stack Developer**.  
+💻 **MERN Stack Developer** with **2 years of experience**, currently working as a **Associate Engineer**.  
 I build clean UIs, solid APIs, and I don’t panic when production breaks (I just pretend I expected it).
 
 - 👀 Interested in: Web development, backend engineering, and learning basically everything tech
-- 🌱 Currently learning/working on: Java Full Stack (Spring Boot + React)
+- 🌱 Currently learning/working on: MERN Stack Developer
 - 📫 Reach me at: **prajusoma23@gmail.com**
 
 ---
