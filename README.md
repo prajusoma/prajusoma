@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajusoma
+- 👋 Hi, I’m @prajwal somashekar
 - 👀 I’m interested in bit everything
 - 🌱 I’m currently java fullstack developer
 - 📫 How to reach me prajusoma23@gmail.com
@@ -42,6 +42,3 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/saikat-glitch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat-glitch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://buymeacoffee.com/prajwal_soma?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
